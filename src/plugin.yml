@@ -1,0 +1,12 @@
+name: UltraLobby
+version: 1.0
+description: Ein Lobby Plugin
+website: http://endaa.enjin.com
+author: DerooHD
+main: deroohd.ultra.lobby.lobby
+commands:
+   lobby:
+      description: This is the Lobby command.
+      usage: /<command> [player]
+      permission: <plugin name>.lobby
+      permission-message: You don't have <permission>
